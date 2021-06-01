@@ -1,0 +1,14 @@
+.intro {
+  font-style: italic;
+}
+.author {
+  color: red;
+}
+p.author {
+  font-size: 12px;
+}
+.tropical.h1{
+  color:#f7325e;
+  text-color:#7dc410;
+  font-family:fantasy;
+}
